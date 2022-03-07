@@ -1,0 +1,64 @@
+canvas {
+  border-style: solid;
+  background: rgb(7, 19, 160);
+  height: 80%;
+  width: 80%;
+  left: 0;
+  top: 0;
+}
+.animate {
+
+  transition: all 1s ease;
+  position: absolute;
+
+}
+
+.center {
+  margin: auto;
+  width: 100%;
+
+  position: relative;
+  top: 30px;
+
+
+
+}
+.class0{
+
+
+  position: relative;
+  left: 600px;
+
+}
+.class1{
+
+
+  position: relative;
+  -webkit-transform: translateY(300px);
+
+}
+.class2{
+
+  position: relative;
+  -webkit-transform: translateY(100px)  ;
+
+}
+.class3{
+
+  position: relative;
+  -webkit-transform: translateX(300px)  ;
+
+}
+.class4{
+
+  position: relative;
+  -webkit-transform: translateX(100px)  ;
+
+}
+
+
+
+
+
+
+
